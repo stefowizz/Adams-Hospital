@@ -1,0 +1,6 @@
+@AdamsHospitalAPI_HostAddress = http://localhost:5193
+
+GET {{AdamsHospitalAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

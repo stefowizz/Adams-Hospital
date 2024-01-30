@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MK8cceRsBZCDRkLGkBxIx6WaaTlg8hSSUR1kp0vL2ms=",
+  "Source": "AdamsHospitalAPI",
+  "BasePath": "_content/AdamsHospitalAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
